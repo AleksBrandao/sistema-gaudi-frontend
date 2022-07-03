@@ -1,0 +1,9 @@
+header {
+    padding: 1rm 0; 
+    background-color: #fee094;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 auto 1rem;
+}
